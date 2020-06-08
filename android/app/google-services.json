@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36176191620",
+    "firebase_url": "https://primer-firestore.firebaseio.com",
+    "project_id": "primer-firestore",
+    "storage_bucket": "primer-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36176191620:android:aacdb5b0d44c7717cd22d1",
+        "android_client_info": {
+          "package_name": "com.javierweb.app_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36176191620-ah7j997sbf15cscfoio3tdhc454ii9gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoH0zivgwQ3R_8I9OZL0oLuelcnHK1THQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36176191620-ah7j997sbf15cscfoio3tdhc454ii9gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
